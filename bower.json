@@ -3,11 +3,11 @@
   "description": "",
   "main": "gulpfile.js",
   "authors": [
-    "Taylor Pokoj <pokojt@gmail.com>"
+    "timmi mcguire <timothea.mcguire@gmail.com>"
   ],
   "license": "ISC",
   "moduleType": [],
-  "homepage": "",
+  "homepage": "https://github.com/timmi89/newNodeTemplate",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -16,7 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "^2.2.1",
+    "jquery": "^2.2.2",
     "bootstrap": "^3.3.6",
     "moment": "^2.12.0"
   }
